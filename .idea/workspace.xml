@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a9661f4-12c6-4278-a527-ad4cbbe6db61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2tP83lgHXj3IsooZSkuUMSvWed9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ayca2\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Mineswiper" />
+          <option name="myCopyRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Mineswiper" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Mineswiper" />
+          <option name="myCopyRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Mineswiper" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a9661f4-12c6-4278-a527-ad4cbbe6db61" name="Changes" comment="" />
+      <created>1740242151451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740242151451</updated>
+    </task>
+    <task id="LOCAL-00001" summary="level done">
+      <created>1740248199339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740248199339</updated>
+    </task>
+    <task id="LOCAL-00002" summary="level done">
+      <created>1740248322575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740248322575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="level done">
+      <created>1740248402066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740248402066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="coordinate done">
+      <created>1740248681001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740248681001</updated>
+    </task>
+    <task id="LOCAL-00005" summary="field done">
+      <created>1740265195296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740265195296</updated>
+    </task>
+    <task id="LOCAL-00006" summary="revealfields done">
+      <created>1740397377719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740397377719</updated>
+    </task>
+    <task id="LOCAL-00007" summary="revealfields done">
+      <created>1740397533513</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740397533513</updated>
+    </task>
+    <task id="LOCAL-00008" summary="revealfields done">
+      <created>1740397679524</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740397679524</updated>
+    </task>
+    <task id="LOCAL-00009" summary="revealfields done">
+      <created>1740397858311</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740397858311</updated>
+    </task>
+    <task id="LOCAL-00010" summary="board">
+      <created>1740431085220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740431085220</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" board first method">
+      <created>1740438509128</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740438509128</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" board first method">
+      <created>1740438990772</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740438990772</updated>
+    </task>
+    <task id="LOCAL-00013" summary="hey">
+      <created>1740493793718</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740493793718</updated>
+    </task>
+    <task id="LOCAL-00014" summary="hey">
+      <created>1740493951544</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740493951544</updated>
+    </task>
+    <task id="LOCAL-00015" summary="hey">
+      <created>1740494163804</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740494163804</updated>
+    </task>
+    <task id="LOCAL-00016" summary="hey">
+      <created>1740494344010</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740494344010</updated>
+    </task>
+    <task id="LOCAL-00017" summary="hey">
+      <created>1740494687724</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740494687724</updated>
+    </task>
+    <task id="LOCAL-00018" summary="hey">
+      <created>1740495130824</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740495130824</updated>
+    </task>
+    <task id="LOCAL-00019" summary="hey">
+      <created>1740495458818</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740495458818</updated>
+    </task>
+    <task id="LOCAL-00020" summary="board done">
+      <created>1740647327937</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740647327937</updated>
+    </task>
+    <task id="LOCAL-00021" summary="board done">
+      <created>1740651055667</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1740651055667</updated>
+    </task>
+    <task id="LOCAL-00022" summary="board done">
+      <created>1740652860720</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1740652860720</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="level done" />
+    <MESSAGE value="coordinate done" />
+    <MESSAGE value="field done" />
+    <MESSAGE value="revealfields done" />
+    <MESSAGE value="board" />
+    <MESSAGE value=" board first method" />
+    <MESSAGE value="hey" />
+    <MESSAGE value="board done" />
+    <option name="LAST_COMMIT_MESSAGE" value="board done" />
+  </component>
+</project>
